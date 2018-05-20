@@ -1,0 +1,97 @@
+.boxlogo {
+	display: block;
+	border-radius: 15px;
+	background: rgb(143, 143, 143);
+	padding: 20px;
+	width: 1400px;
+	height: 150px;
+   	margin-left: 135;
+	box-shadow: 10px 10px 16px 0 rgba(0, 0, 0, 1), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxleft {
+	display: inline-block;
+	border-radius: 15px;
+	background: rgb(143, 143, 143);
+	text-align: center;
+	padding: 20px;
+	width: 110px;
+	height: 400px;
+   	margin-left: 160;
+	vertical-align: top;
+	box-shadow: 10px 10px 16px 0 rgba(0, 0, 0, 1), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+.boxbig {
+	display: block;
+}
+.boxcenter {
+	display: inline-block;
+	border-radius: 15px;
+	background: rgb(143, 143, 143);
+	padding: 20px;
+	width: 990px;
+	height: 550px;
+   	margin-left: 20;
+	box-shadow: 10px 10px 16px 0 rgba(0, 0, 0, 1), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+
+}
+.boxright {
+	text-align: center;
+	display: inline-block;
+	border-radius: 15px;
+	background: rgb(143, 143, 143);
+	padding: 20px;
+	width: 110px;
+	height: 400px;
+   	margin-left: 20;
+   	margin-right: 0;
+	vertical-align: top;
+	align
+	box-shadow: 10px 10px 16px 0 rgba(0, 0, 0, 1), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+.brick {
+	margin: -2;
+}
+
+#close {
+	position: relative;
+	top: 130px;
+	left: 30px;
+}
+
+#loupe {
+	position: relative;
+	top: 10;
+	left: 60;
+}
+
+.talkbrick {
+	position: relative;
+	border-radius: 15px;
+	background: #88FF89;
+	padding: 20px;
+	width: 380px;
+	height: 120px;
+	left: 200;
+	bottom: 60;
+	font-family: sans-serif;
+	box-shadow: 10px 10px 16px 0 rgba(0, 0, 0, 1), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+.centerimg
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p
+{
+	display: inline;
+}
+
+body {
+	background-color: rgb(81, 81, 81);
+}
